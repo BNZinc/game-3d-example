@@ -15,6 +15,13 @@
 
 `?attract=1` — 글자 없이 섬만 천천히 도는 화면(썸네일용) · `?hq=1` — 늘 최고 화질.
 
+## 내 것으로 가져가기 (fork)
+터미널 없이도 돼요.
+1. 이 페이지 오른쪽 위 **Fork** → **Create fork**. 내 GitHub에 복사본이 생겨요.
+2. 내 복사본에서 **Actions** 탭 → **I understand my workflows, go ahead and enable them**. (fork는 처음에 꺼져 있어요.)
+3. **Settings › Pages › Build and deployment › Source**를 **GitHub Actions**로 → **Actions** 탭에서 **Pages › Run workflow**. 1~2분 뒤 `https://<내 아이디>.github.io/noeul-fox/`에서 열려요.
+4. 고치고 싶으면: 초록 **Code › Download ZIP**으로 받아 풀고, QuestiVibe에서 **[이미 있는 폴더 열기]**로 그 폴더를 열어 "여우를 고양이로 바꿔 줘"처럼 말하면 돼요.
+
 ## 직접 돌려 보기
 Node 22 이상과 pnpm이 있으면:
 
