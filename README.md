@@ -30,10 +30,31 @@ pnpm start        # dist/를 PORT(기본 3000)로 내보내기 — Railway 등�
 - 에이전트용 안내는 `AGENTS.md` (QuestiVibe에서 열면 에이전트가 이걸 읽어요).
 
 ## 라이선스 · 출처
-- **코드: MIT** (`LICENSE`).
-- **3D 모델: Polyfork, CC BY 4.0** — MIT가 아니에요. 출처 줄은 `CREDITS.md`와 `public/assets/CREDITS.txt`(모델 옆에 함께 다님), 게임 안 **[만든 재료 · 출처]**에도 있어요. 모델을 다시 쓸 때 출처를 남기고, 고쳤다면 고쳤다고 적어 주세요. Polyfork가 이 게임을 만들거나 보증한 것은 아니에요.
-- 제목 글꼴은 Google Fonts에서 받아요(OFL). 소리는 코드로 만든 것(파일 없음).
-- `.agents/skills/` — 에이전트 스킬(blender-skills, MIT). 각 폴더의 LICENSE·NOTICE.md를 그대로 두세요.
+- **코드: MIT** (`LICENSE`). 아래 표의 에셋은 각자의 라이선스를 따라요.
+- 3D 모델은 Polyfork의 무료 모델을 **CC BY 4.0**으로 써요(Polyfork 자체 라이선스가 아님). 출처 줄은 `CREDITS.md`, 모델 옆 `public/assets/CREDITS.txt`, 게임 안 **[만든 재료 · 출처]**에 있어요. Polyfork가 이 게임을 만들거나 보증한 것은 아니에요.
+- 재배포가 금지된 에셋(예: FreePixel 파일)은 이 저장소에 넣지 않았어요.
+
+| 에셋 | 출처 | 라이선스 | 재배포 |
+|---|---|---|---|
+| `public/assets/fox.glb` | Fox — Polyfork (https://polyfork.dev/asset/fox-base) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/palm.glb` | Palm Tree — Polyfork (https://polyfork.dev/asset/palm-tree-a307da) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/cherry.glb` | Cherry Tree — Polyfork (https://polyfork.dev/asset/cherry-tree-a710a9) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/pine.glb` | Sculpted Pine — Polyfork (https://polyfork.dev/asset/sculpted-pine-e45d4f) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/bush.glb` | Round Bush — Polyfork (https://polyfork.dev/asset/round-bush-cd2ac0) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/rock.glb` | Field rock — Polyfork (https://polyfork.dev/asset/field-rock-5e37c6) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/rock-small.glb` | Garden Rock — Polyfork (https://polyfork.dev/asset/garden-rock-2d3b51) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/lighthouse.glb` | Old Lighthouse — Polyfork (https://polyfork.dev/asset/old-lighthouse-48ca6c) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/cottage.glb` | Thatched Cottage — Polyfork (https://polyfork.dev/asset/thatched-cottage-0e63f5) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/boat.glb` | Wooden Rowboat — Polyfork (https://polyfork.dev/asset/wooden-rowboat-916981) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/pier.glb` | Pier Deck Section — Polyfork (https://polyfork.dev/asset/pier-deck-section-7047d7) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/campfire.glb` | Campfire — Polyfork (https://polyfork.dev/asset/campfire-4390aa) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/flower.glb` | Wildflower — Polyfork (https://polyfork.dev/asset/wildflower-68d3a1) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| `public/assets/fir.glb` | Tall Pine Tree — Polyfork (https://polyfork.dev/asset/tall-pine-tree-ab4108) | CC BY 4.0 | 예 (출처 표기·고쳤으면 표시) |
+| 하늘·바다·섬 땅·등불·반딧불·효과 (`src/`) | 직접 만듦 (코드로 그림) | MIT (이 저장소) | 예 |
+| 소리 (`src/audio.ts`) | 직접 만듦 (WebAudio로 그 자리에서 만듦, 파일 없음) | MIT (이 저장소) | 예 |
+| 제목 글꼴 Gowun Batang | Google Fonts에서 실행할 때 받음 (저장소에 파일 없음) | SIL OFL 1.1 | 저장소에 넣지 않음 |
+| 에이전트 스킬 (`.agents/skills/`) | arjun988/blender-skills @904f095 | MIT (각 폴더 LICENSE·NOTICE.md) | 예 (LICENSE 유지) |
+| `public/og.webp` (README 그림) | 이 게임 화면을 찍은 것 (Polyfork 모델이 보임) | 화면 속 모델은 CC BY 4.0 (출처 위와 같음) | 예 (출처 표기) |
 
 ---
 
