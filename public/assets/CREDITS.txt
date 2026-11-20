@@ -1,0 +1,21 @@
+3D models in this folder — credits travel with the files.
+
+These models are by Polyfork (https://polyfork.dev), used under CC BY 4.0
+(https://creativecommons.org/licenses/by/4.0/ · https://polyfork.dev/licensing).
+They are NOT covered by this repository's MIT license, and Polyfork does not endorse this game.
+No model was changed.
+
+fox.glb: Fox by Polyfork (https://polyfork.dev/asset/fox-base), CC BY 4.0
+palm.glb: Palm Tree by Polyfork (https://polyfork.dev/asset/palm-tree-a307da), CC BY 4.0
+cherry.glb: Cherry Tree by Polyfork (https://polyfork.dev/asset/cherry-tree-a710a9), CC BY 4.0
+pine.glb: Sculpted Pine by Polyfork (https://polyfork.dev/asset/sculpted-pine-e45d4f), CC BY 4.0
+bush.glb: Round Bush by Polyfork (https://polyfork.dev/asset/round-bush-cd2ac0), CC BY 4.0
+rock.glb: Field rock by Polyfork (https://polyfork.dev/asset/field-rock-5e37c6), CC BY 4.0
+rock-small.glb: Garden Rock by Polyfork (https://polyfork.dev/asset/garden-rock-2d3b51), CC BY 4.0
+lighthouse.glb: Old Lighthouse by Polyfork (https://polyfork.dev/asset/old-lighthouse-48ca6c), CC BY 4.0
+cottage.glb: Thatched Cottage by Polyfork (https://polyfork.dev/asset/thatched-cottage-0e63f5), CC BY 4.0
+boat.glb: Wooden Rowboat by Polyfork (https://polyfork.dev/asset/wooden-rowboat-916981), CC BY 4.0
+pier.glb: Pier Deck Section by Polyfork (https://polyfork.dev/asset/pier-deck-section-7047d7), CC BY 4.0
+campfire.glb: Campfire by Polyfork (https://polyfork.dev/asset/campfire-4390aa), CC BY 4.0
+flower.glb: Wildflower by Polyfork (https://polyfork.dev/asset/wildflower-68d3a1), CC BY 4.0
+fir.glb: Tall Pine Tree by Polyfork (https://polyfork.dev/asset/tall-pine-tree-ab4108), CC BY 4.0
