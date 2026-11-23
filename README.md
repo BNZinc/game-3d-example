@@ -2,7 +2,7 @@
 
 해가 바다에 닿기 전에, 작은 섬 곳곳에 놓인 **등불 12개**를 모아 밤하늘로 띄우는 브라우저 3D 게임이에요. 한 판 1~2분.
 
-**바로 해 보기 → https://bnzinc.github.io/noeul-fox/**
+**바로 해 보기 → https://bnzinc.github.io/game-3d-example/**
 
 > [QuestiVibe](https://github.com/BNZinc) 스타터 `game-3d`로 만든 예시예요. 개발 지식 없이도 "이런 게임 만들어 줘"라고 말하면 에이전트가 만드는 데스크톱 앱이에요. 이 저장소를 **fork**해서 마음대로 고쳐 보세요.
 
@@ -19,7 +19,7 @@
 터미널 없이도 돼요.
 1. 이 페이지 오른쪽 위 **Fork** → **Create fork**. 내 GitHub에 복사본이 생겨요.
 2. 내 복사본에서 **Actions** 탭 → **I understand my workflows, go ahead and enable them**. (fork는 처음에 꺼져 있어요.)
-3. **Settings › Pages › Build and deployment › Source**를 **GitHub Actions**로 → **Actions** 탭에서 **Pages › Run workflow**. 1~2분 뒤 `https://<내 아이디>.github.io/noeul-fox/`에서 열려요.
+3. **Settings › Pages › Build and deployment › Source**를 **GitHub Actions**로 → **Actions** 탭에서 **Pages › Run workflow**. 1~2분 뒤 `https://<내 아이디>.github.io/game-3d-example/`에서 열려요.
 4. 고치고 싶으면: 초록 **Code › Download ZIP**으로 받아 풀고, QuestiVibe에서 **[이미 있는 폴더 열기]**로 그 폴더를 열어 "여우를 고양이로 바꿔 줘"처럼 말하면 돼요.
 
 ## 직접 돌려 보기
@@ -65,4 +65,4 @@ pnpm start        # dist/를 PORT(기본 3000)로 내보내기 — Railway 등�
 
 ---
 
-**English:** A tiny three.js game — collect 12 lanterns on a sunset island before the sun sets. Made with the QuestiVibe `game-3d` starter. Code is MIT; the 3D models are by Polyfork under CC BY 4.0 (credits in `CREDITS.md` and `public/assets/CREDITS.txt`). Play: https://bnzinc.github.io/noeul-fox/
+**English:** A tiny three.js game — collect 12 lanterns on a sunset island before the sun sets. Made with the QuestiVibe `game-3d` starter. Code is MIT; the 3D models are by Polyfork under CC BY 4.0 (credits in `CREDITS.md` and `public/assets/CREDITS.txt`). Play: https://bnzinc.github.io/game-3d-example/
